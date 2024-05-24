@@ -1,13 +1,15 @@
-# free-training
+# Free Training Resources
 
-## YesWeHack Dojo
+## Hacking Tutorials
+
+### YesWeHack Dojo
 
 https://dojo-yeswehack.com/learn/
 
-## Portswigger Academy
+### Portswigger Academy
 
 https://portswigger.net/web-security
 
-## Tib3rius 
+### Tib3rius 
 
 https://tib3rius.com/
